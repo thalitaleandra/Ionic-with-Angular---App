@@ -1,0 +1,7 @@
+{
+  "name": "appPost",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
